@@ -13,11 +13,15 @@ style="width:300px;height:300px;"></p>
     <font color="red">I live in Manhattan</font>
 <button>Click me</button>
 
-<h2>My favorite places tp travel</h2>
+<h2>My favorite places to travel</h2>
 <ul>
   <li>Greece</li>
   <li>Italy</li>
   <li>Aruba</li>
+  <li>Colombia</li>
+  <li>Florida</li>
+  <li>Hamptons</li>
+  
 </ul>
 
  </body>
