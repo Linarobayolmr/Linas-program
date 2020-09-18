@@ -1,25 +1,25 @@
 # Linas-program
 My github website 
+<!DOCTYPE html>
 <html>
- <body bgcolor="cf03fc">
-
+ <body>
  	<h1>Getting to know me</h1>
-   	<p>My name is Lina, I am 16 years old.
-	<font color="red">I live in Manhattan</font>
+   	<p>My name is Lina, I am 16 years old.</p>
   	<b>I go to the Loyola School</b>
 	<u>my favorite sport is rowing</u>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/yXUPuwaprNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
-  <p><a href=https://rownewyork.org/>If you click on this link you can see the organization i row with, its my absolute favorite thing to do.</a>]</p>
-
+  <p><a href=https://rownewyork.org/>If you click on this link you can see the organization i row with, its my absolute favorite thing to do.</a>]
       <p><img src=https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,g_xy_center,h_391,q_75,w_588,x_119,y_154/v1/clients/newyorkstate/c55f16a4_14d0_4d13_a0aa_26af3150ab13_839cfbab-5969-4bf0-8894-627c106bb0eb.jpg alt="text"
 style="width:300px;height:300px;"></p>
+	<font color="red">I live in Manhattan</font>
 <button>Click me</button>
 
+<h2>Getting to know me</h2>
 <ul>
   <li>Greece</li>
   <li>Italy</li>
   <li>Aruba</li>
 </ul>
 
- </body bgcolor="cf03fc">
+ </body>
 </html>
